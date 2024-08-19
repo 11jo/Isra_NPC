@@ -300,7 +300,7 @@
 @264  = ~Oui, si je pouvais m'en empêcher, je ne peux pas dire que je le ferais.~
 @265  = ~Pour quelqu'un qui est aussi passionné d'argent, Kagain, tu sembles rarement enclin à le dépenser. Je ne peux pas dire que je comprends cela.~
 @266  = ~Est-ce que tu vas m'amniser maintenant, gamine? L'or ne vaut rien que si on le dépense avec toi.~
-@267  = ~Je n'ai jamais été terriblement impressionnée par l'extravagance amniene, non, mais ton avarice rend même cela attrayant en comparaison. La fausse charité reste au moins de la charité.~
+@267  = ~Je n'ai jamais été terriblement impressionnée par l'extravagance amnienne, non, mais ton avarice rend même cela attrayant en comparaison. La fausse charité reste au moins de la charité.~
 @268  = ~Tu es une fille riche, n'est-ce pas ? Tu es née riche, tu risques de mourir riche... et plus tôt que tu ne le souhaiterais, si tu n'arrêtes pas de me soûler.~
 @269  = ~... Il existe différents types de richesse, Kagain, et différents types de pauvreté. Quel que soit le vide qui se cache dans ton âme, je doute fort que tout l’argent d’Amn puisse le combler.~
 @270  = ~Hé hé, pas Amn, peut-être, mais nous pouvons voir un peu plus grand que ça, n'est-ce pas ?~
@@ -441,7 +441,7 @@
 @387  = ~En fait, non. Je devrais penser qu'il est désormais évident que je te trouve complètement répugnante. Quoi que tu lui aies pris, Safana, je veux le ramener. Maintenant.~
 @388  = ~Si tu insistes... tu sais, tu n'es vraiment plus amusante du tout. Si ça pourrait aider, Je te  laisse prendre le prochain pour toi.~
 @389  = ~Oh, n'aie pas l'air si indignée. Maintenant, pourquoi ne serais-tu pas une gentille petite fille et ne rends-tu pas les objets de valeur volés au pauvre garçon ? J'aimerais vraiment profiter de mon petit-déjeuner en toute tranquillité.~
-@390  = ~Isra, chérie, tu n'as vraiment pas parlé la langue calishite depuis des lustres, n'est-ce pas ? Cet accent est absolument atroce, même pour une fille Amniene provinciale.~
+@390  = ~Isra, chérie, tu n'as vraiment pas parlé la langue calishite depuis des lustres, n'est-ce pas ? Cet accent est absolument atroce, même pour une fille amnienne provinciale.~
 @391  = ~Comme c'est délicat.~
 @392  = ~Beaucoup plus délicatement que ce que tu viens de dire. Au fait, qui étaient tes ancêtres, les marins de Memnon ?~
 @393  = ~Les seigneurs de guerre de Calimport, à ma connaissance. J'imagine que ma diction n'est pas tout à fait celle à laquelle tu es habituée.~
@@ -467,7 +467,7 @@
 
 // Skie
 // ----
-@410  = ~Isra, est-il courant que les nobles Amniens enseignent à leurs filles comment utiliser les armes ?~
+@410  = ~Isra, est-il courant que les nobles amniens enseignent à leurs filles comment utiliser les armes ?~
 @411  = ~Pas très courant, ma dame, non. J'ose dire que mon père a rapidement décidé que s'il avait le choix entre apprendre auprès des meilleurs et hanter les bars des soldats, il préférerait le premier.~
 @412  = ~*rire* J'aurais aimé que mon père soit aussi pratique.~
 @413  = ~Peut-être, bien qu'il y ait un moment où une personne peut devenir trop pratique.~
@@ -488,7 +488,7 @@
 @428  = ~Tu ne sais pas de quoi tu parles ! Il m'aime.~
 @429  = ~Non, ce n'est pas le cas. Il n'y a pas de place pour l'amour dans ce... cœur de cette bête. Si tu ne prêtes aucune attention à la façon dont il te traite, alors fais au moins attention à la façon dont il traite les autres autour de lui.~
 @430  = ~Tu es une femme belle, gentille et intelligente... tu mérites mieux que ça... cette tromperie de l'amour.~
-@431  = ~Vous... vous $etes comme tous les autres ! Pourquoi ne pouvez-vous pas tous nous laisser tranquilles !?~
+@431  = ~Vous... vous êtes comme tous les autres ! Pourquoi ne pouvez-vous pas tous nous laisser tranquilles !?~
 @432  = ~*soupir* Si tout le monde te dit que tu as tort, Skie, peut-être que tu devrais écouter.~
 
 //Tiax
@@ -556,7 +556,7 @@
 // -------
 @482  = ~Pour un paladin, Isra, c'est un plaisir de voyager avec toi. Ce serait bien de ne pas avoir à écouter des discours constants sur les vertus de l'honneur, du devoir et de la patience pour changer.~
 @483  = ~... Je ne suis pas sûr de devoir considérer cela comme un compliment.~
-@484  = ~Arghh, ma fille, ne le prends pas mal. Tu es une belle fille, avec une bonne tête sur les épaules et un puissant bras d'épée. Ce serait reposantt de ne pas avoir à s'occuper des absurdités typiques des paladins.~
+@484  = ~Arghh, ma fille, ne le prends pas mal. Tu es une belle fille, avec une bonne tête sur les épaules et un puissant bras d'épée. Ce serait reposant de ne pas avoir à s'occuper des absurdités typiques des paladins.~
 @485  = ~C'est très peu charitable, Yeslick. Et surprenant. Tu m'as toujours semblé être un type honorable et dévoué.~
 @486  = ~Un nain plus honorable que tu aurais du mal à trouver, en vérité, mais les paladins semblent parler de telles vertus et cela blesse les oreilles après les premières heures.~
 @487  = ~ D'après ma propre expérience, la plupart savent déjà quelles vertus ils choisissent de suivre, et il n'est pas nécessaire de leur rappeler lesquelles ils devraient. Ça ne mène jamais nulle part sauf à se disputer.~

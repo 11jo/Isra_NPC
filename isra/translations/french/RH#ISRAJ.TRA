@@ -76,7 +76,7 @@
 @75   = ~Je... suppose que j'ai l'air quelque peu sur la défensive. Je vous assure, mon seigneur, que je ne suis normalement pas aussi solennelle. Je passe trop de temps avec les Sunites et les Lliirans pour agir de manière aussi grave.~ ~Je... suppose que j'ai l'air quelque peu sur la défensive. Je vous assure, ma dame, que je ne suis normalement pas aussi solennelle. Je passe trop de temps avec les Sunites et les Lliirans pour agir de manière aussi grave.~
 @76   = ~Je vous connais depuis trop longtemps maintenant pour être encore aussi formelle, c'est vrai, mais... Crimmor est loin d'ici, et je ne suis jamais vraiment sorti d'Amn auparavant. Cette expérience est... nouvelle pour moi à bien des égards.~
 @77   = ~Vous traînez avec des Porteurs de joie et des Gardes du cœur ? Comment trouvez-vous le temps pour quoi que ce soit ?~
-@78   = ~Crimmor ? La seule ville amniene que je connaisse est Athkatla.~
+@78   = ~Crimmor ? La seule ville amnienne que je connaisse est Athkatla.~
 @79   = ~Un paladin avec le sens de l'humour... c'est assez nouveau pour moi aussi.~
 @80   = ~C'est gratifiant de savoir que tous les membres de notre profession ne sont pas aussi ennuyeux qu'ils sont gris.~
 @81   = ~Et vous êtes nerveuse à l'idée de mal représenter votre ordre. Ne vous inquiétez pas trop. Je comprends.~
@@ -128,9 +128,9 @@
 @127  = ~La Cité du Bouclier est... très martiale, j'en ai bien peur. Nous sommes gouvernés par les affaires autant que n'importe quelle autre ville d'Amn, mais les affaires d'Eshpurta sont la guerre.~
 @128  = ~Comme vous le voudriez.~
 @129  = ~Ma famille a toujours vécu dans le quadrant sud avec les artistes et les musiciens -- ma mère refusait de s'entourer de soldats, même si elle en avait épousé un -- mais en réalité, c'est l'armée qui est l'élément vital de la ville, autant que je souhaiterais qu'il en soit autrement.~
-@130  = ~Les armées amnienes ne sont pas centrées sur Athkatla ?~
+@130  = ~Les armées amniennes ne sont pas centrées sur Athkatla ?~
 @131  = ~Et pourtant, vous adhérez certainement toujours au concept de combat.~
-@132  = ~Votre père est dans l'armée Amniene ?~
+@132  = ~Votre père est dans l'armée amnienne ?~
 @133  = ~Je ne peux pas imaginer que la foi des Sunites soit trop populaire là-bas.~
 @134  = ~Vous voulez dire que vous n'avez pas grandie en idéalisant la guerre ?~
 @135  = ~Non, mon seigneur, ce n'est pas le cas. L’Amn n’est pas la nation la plus pacifique, et je doute que même Athkatla puisse détenir l’intégralité de ses forces armées. Une grande partie est cependant hébergée à Eshpurta.~ ~Non, ma dame, ce n'est pas le cas. L’Amn n’est pas la nation la plus pacifique, et je doute que même Athkatla puisse détenir l’intégralité de ses forces armées. Une grande partie est cependant hébergée à Eshpurta.~
@@ -286,7 +286,7 @@
 @285  = ~C'était en 1356, l'année où le Château Paldragon fut finalement purgé... du moins pour un temps. Je suis sûr que tu en as entendu parler ; le château était tristement célèbre pour ses portails ouverts vers les Neuf Enfers.~
 @286  = ~Il est possible que tu ne l'aies tout simplement pas reconnu comme tel, mon seigneur, ou peut-être que tu n'as jamais été poussé vers un autre chemin. Quant à la façon dont je le décrirais...je n'avais que sept ans à l'époque, donc je ne pouvais pas vraiment dire à quel point mes souvenirs sont toujours vrais.~ ~Il est possible que tu ne l'aies tout simplement pas reconnu comme tel, ma dame, ou peut-être que tu n'as jamais été poussée vers un autre chemin. Quant à la façon dont je le décrirais...je n'avais que sept ans à l'époque, donc je ne pouvais pas vraiment dire à quel point mes souvenirs sont toujours vrais.~
 @287  = ~*rire* Non, mon seigneur, rien de si évident, même si l’on pourrait dire que les démons étaient impliqués.~ ~*rire* Non, ma dame, rien de si évident, même si l’on pourrait dire que les démons étaient impliqués.~
-@288  = ~Je n'avais que sept ans lorsque j'en ai eu la certitude. C'était en 1356, l'année où le Château Paldragon fut finalement purgé... du moins pour un certain temps. Je suis sûre que tu en as entendu parler ; le château était tristement célèbre pour ses portails ouverts vers les Neuf Enfers et le Baatezu qui en sortait parfois.~
+@288  = ~Je n'avais que sept ans lorsque j'en ai eu la certitude. C'était en 1356, l'année où le Château Paldragon fut finalement purgé... du moins pour un certain temps. Je suis sûre que tu en as entendu parler ; le château était tristement célèbre pour ses portails ouverts vers les Neuf Enfers et les Baatezus qui en sortaient parfois.~
 @289  = ~... Je m'excuse si je t'ai offensé d'une manière ou d'une autre, mon seigneur. Peut-être devrions-nous simplement continuer.~ ~... Je m'excuse si je t'ai offensée d'une manière ou d'une autre, ma dame. Peut-être devrions-nous simplement continuer.~
 @290  = ~Peut-être, même si je ne suis pas entièrement convaincu. Je regarde mes sœurs, qui ont toutes deux choisi... d'autres vies, et je ne peux m'empêcher de me demander où exactement nos chemins ont tant divergé.~
 @291  = ~Je n'avais que sept ans quand j'en ai eu la certitude. C'était en 1356, l'année où le Château Paldragon fut finalement purgé... du moins pour un temps. Je suis sûre que tu en as entendu parler ; le château était tristement célèbre pour ses portails ouverts vers les Neuf Enfers.~
@@ -435,7 +435,7 @@
 @434  = ~Cela n'arrivera pas.~
 @435  = ~De toute façon, tu n'as pas l'air ravie à l'idée de lui écrire.~
 @436  = ~Plus il y a de gens ayant une idée de ce qui se passe, mieux c'est.~
-@437  = ~Isra, étant donné tes liens avec l'armée Amniene, tu n'aurais pas de problèmes à la Porte de Baldur si la guerre éclate, n'est-ce pas ?~
+@437  = ~Isra, étant donné tes liens avec l'armée amnienne, tu n'aurais pas de problèmes à la Porte de Baldur si la guerre éclate, n'est-ce pas ?~
 @438  = ~Je prie pour que tu aies raison, <CHARNAME>.~
 @439  = ~Nous... ne nous sommes pas parlé depuis presque un an maintenant, et je ne pense pas qu'il sache même où je suis. Cela le bouleverserait, je pense, de savoir que je ne suis pas cachée à Crimmor.~
 @440  = ~Je suis d'accord, même si en réalité, je ne vois pas en quoi cela ferait une différence dans la conséquence.~
@@ -609,7 +609,7 @@
 @608  = ~Au moins, les rivières ne sont pas encore rouges.~
 @609  = ~Je peux te dire où viser, et tu n'auras plus à penser aux choses difficiles.~
 @610  = ~Je peux à peine suivre les événements moi-même.~
-@611  = ~Oui, mon seigneur. Je suis Amniene. Je ne suis pas étrangère à la corruption.~ ~Oui, ma dame. Je suis Amniene. Je ne suis pas étrangère à la corruption.~
+@611  = ~Oui, mon seigneur. Je suis amnienne. Je ne suis pas étrangère à la corruption.~ ~Oui, ma dame. Je suis Amniene. Je ne suis pas étrangère à la corruption.~
 @612  = ~... Oui. C'est une... pensée horrible en effet. Peut-être devrais-je être heureuse que ce ne soit qu’une simple conspiration à laquelle nous sommes  confrontés pour l’instant.~
 @613  = ~S'il te plaît, mon seigneur, je n'apprécie pas la condescendance.~ ~S'il te plaît, ma dame, je n'apprécie pas la condescendance.~
 @614  = ~Tu t'en es assez bien acquitté jusqu'à présent, mon seigneur. Bien mieux que moi, certainement.~ ~Tu t'en es assez bien acquittée jusqu'à présent, ma dame. Bien mieux que moi, certainement.~
@@ -651,7 +651,7 @@
 @650  = ~Après tout ce désordre, des vacances avec des Sunites et des Lliirans semblent un plan agréable.~
 @651  = ~*rire* Si tu insistes.~
 @652  = ~*sourire* Je ne vois pas l'intérêt d'envisager la défaite.~
-@653  = ~*sourire* J'esperais autant.~
+@653  = ~*sourire* J’espérais autant.~
 @654  = ~*sourire* Il n'y a rien de simple dans l'amitié, mais... oui, peut-être.~
 @655  = ~Mais j'ai pris trop de temps avec de telles discussions, mon seigneur. Une fois cela terminé, nous aurons le temps d'en reparler.~ ~Mais j'ai pris trop de temps avec de telles discussions, ma dame. Une fois cela terminé, nous aurons le temps d'en reparler.~
 @656  = ~Je n'ai aucune envie d'assassiner un homme qui s'est rendu, <CHARNAME>, certes, on peut lui faire confiance pour ne pas retourner chez ses anciens maîtres.~
@@ -855,7 +855,7 @@
 @854  = ~Cela dépend de la rumeur en question, je pense. Il y a des réjouissances, oui, et certaines d'entre elles sont certainement trop sauvages à mon goût, mais les plus sacrées de nos fêtes sont en réalité des affaires assez calmes.~
 @855  = ~Sunie règne le matin, Milil l'après-midi, et Lliira le soir. L'accord est... étrangement imprévu, oui, même s'il semble fonctionner assez bien.~
 @856  = ~Je suis de plus en plus préoccupée par ce que nous pourrions trouver à la fin, en réalité. Pourtant, chaque pas que nous avons fait a repoussé un peu plus l’obscurité.~
-@857  = ~*sourire* Je suis Amniene, <CHARNAME>. Voulez-vous poser des questions sur ma famille actuelle ou ma lignée ?~
+@857  = ~*sourire* Je suis amnienne, <CHARNAME>. Voulez-vous poser des questions sur ma famille actuelle ou ma lignée ?~
 @858  = ~Je voulais dire votre famille actuelle, oui.~
 @859  = ~Je voulais dire votre ascendance. Votre nom est Calishite, n'est-ce pas ?~
 @860  = ~Mon père était général et ma mère était autrefois bardesse. Ils vivent tous les deux à Eshpurta et sont désormais en semi-retraite. Même si je sais que ma mère déteste ça et préférerait de loin retourner à Crimmor. J'ai aussi deux sœurs aînées, qui vivent toutes deux actuellement à Athkatla, pour autant que je sache.~
