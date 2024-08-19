@@ -1,25 +1,25 @@
 //@0    = ~v3.3~
 
 @1    = ~Mod Isra NPC pour BG:EE, EET, BGT et TuTu~
-@2    = ~Contenu mods crois√©s Valerie/Isra~
-@3    = ~Contenu mods crois√©s Gavin/Isra~
+@2    = ~Contenu mods croises Valerie/Isra~
+@3    = ~Contenu mods croises Gavin/Isra~
 
-@11   = ~Vous devez avoir install√© Tutu, BGT, BG:EE ou EET pour installer Isra NPC pour le mod BG.~
-@12   = ~Veuillez installer Isra NPC pour le composant principal BG avant le contenu suppl√©mentaire.~
-@13   = ~Vous ne semblez pas avoir install√© Valerie.~
-@14   = ~Mod Valerie install√© et d√©tect√©.~
-@15   = ~Mod Val√©rie non install√© ni d√©tect√©.~
-@16   = ~Vous ne semblez pas avoir install√© Gavin.~
+@11   = ~Vous devez avoir installe Tutu, BGT, BG:EE ou EET pour installer Isra NPC pour le mod BG.~
+@12   = ~Veuillez installer Isra NPC pour le composant principal BG avant le contenu supplementaire.~
+@13   = ~Vous ne semblez pas avoir installÈ Valerie.~
+@14   = ~Mod Valerie installe et detecte.~
+@15   = ~Mod ValÈrie non installÈ ni dÈtecte.~
+@16   = ~Vous ne semblez pas avoir installÈ Gavin.~
 
-@21   = ~Votre jeu SoD doit √™tre fusionn√© avant que les mods puissent √™tre install√©s sur ce jeu. Consultez le fichier Lisez-moi pour plus d'informations et un lien pour t√©l√©charger le DLC Merger ou Modmerge.~
-@22   = ~Installation de Tutu d√©tect√©.~
-@23   = ~Installation BGT d√©tect√©.~
-@24   = ~Installation de Baldur's Gate Enhanced Edition d√©tect√©.~
-@25   = ~Installation de Enhanced Edition Trilogy d√©tect√©.~
+@21   = ~Votre jeu SoD doit Ítre fusionne avant que les mods puissent etre installes sur ce jeu. Consultez le fichier Lisez-moi pour plus d'informations et un lien pour telecharger le DLC Merger ou Modmerge.~
+@22   = ~Installation de Tutu detecte.~
+@23   = ~Installation BGT detecte.~
+@24   = ~Installation de Baldur's Gate Enhanced Edition detecte.~
+@25   = ~Installation de Enhanced Edition Trilogy detecte.~
 
 
 /* ----------- *
- *  Cr√©atures  *
+ *  CrÈatures  *
  * ----------- */
 @1006 = ~Messager~
 
@@ -28,36 +28,36 @@
  *  PNJ Isra  *
  * ---------- */
 @1007 = ~Isra~
-@1008 = ~Quand on l'interroge sur son pass√©, Isra rit et admet qu'il y a peu de choses √† raconter jusqu'√† pr√©sent. Elle explique qu'elle a pass√© les huit derni√®res ann√©es √† Crimmor, la capitale des caravanes de l'Amn, vivant parmi la famille de sa m√®re alors qu'elle √©tait √©cuyer d'un paladin de Sunie dans l'Ordre du Rubis Rose. M√™me si elle semble aimer parler de la ville, on a l'impression qu'elle est ravie de pouvoir enfin s'en √©loigner et d√©couvrir le monde par elle-m√™me.~
+@1008 = ~Quand on l'interroge sur son passÈ, Isra rit et admet qu'il y a peu de choses ‡ raconter jusqu'‡ prÈsent. Elle explique qu'elle a passÈ les huit derniËres annÈes ‡ Crimmor, la capitale des caravanes de l'Amn, vivant parmi la famille de sa mËre alors qu'elle Ètait Ècuyer d'un paladin de Sunie dans l'Ordre du Rubis Rose. MÍme si elle semble aimer parler de la ville, on a l'impression qu'elle est ravie de pouvoir enfin s'en Èloigner et dÈcouvrir le monde par elle-mÍme.~
 
-@1010 = ~Je suis vraiment honor√©e d'√™tre en votre compagnie.~ [rh#is001]
-@1011 = ~Certains des choix que vous avez faits ne m'int√©ressent pas.~ [rh#is002]
-@1012 = ~Je ne vais pas rester l√† √† regarder √ßa plus longtemps.~ [rh#is003]
-@1013 = ~Assez¬†! Je ne resterai pas dans ce groupe plus longtemps.~ [rh#is004]
-@1014 = ~C'est nouveau... et ce n'est pas tout √† fait importun.~ [rh#is005]
-@1015 = ~Ces heures commencent √† me peser.~ [rh#is006]
+@1010 = ~Je suis vraiment honorÈe d'Ítre en votre compagnie.~ [rh#is001]
+@1011 = ~Certains des choix que vous avez faits ne m'intÈressent pas.~ [rh#is002]
+@1012 = ~Je ne vais pas rester l‡ ‡ regarder Áa plus longtemps.~ [rh#is003]
+@1013 = ~Assez†! Je ne resterai pas dans ce groupe plus longtemps.~ [rh#is004]
+@1014 = ~C'est nouveau... et ce n'est pas tout ‡ fait importun.~ [rh#is005]
+@1015 = ~Ces heures commencent ‡ me peser.~ [rh#is006]
 @1016 = ~Si nous avions des Lliirans parmi nous pour rire de cet ennui.~ [rh#is007]
 @1017 = ~Pour les Cheveux de feu !~ [rh#is008]
 @1018 = ~Pour tout ce qui est bon !~ [rh#is009]
 @1019 = ~Pour la gloire de Sunie !~ [rh#is010]
 
 
-@1022 = ~Une aide d'un gu√©risseur, s'il vous pla√Æt !~ [rh#is013]
-@1023 = ~Aussi charmant soit-il ici, la civilisation commence √† me manquer.~ [rh#is014]
+@1022 = ~Une aide d'un guÈrisseur, s'il vous plaÓt !~ [rh#is013]
+@1023 = ~Aussi charmant soit-il ici, la civilisation commence ‡ me manquer.~ [rh#is014]
 @1024 = ~Ah, la ville, dans toute sa magnificence... et son infamie.~ [rh#is015]
-@1025 = ~Je me demande quelles merveilles perdues nous pourrions trouver cach√©es ici.~ [rh#is016]
-@1026 = ~Tout semble possible √† la lumi√®re du jour.~ [rh#is017]
+@1025 = ~Je me demande quelles merveilles perdues nous pourrions trouver cachÈes ici.~ [rh#is016]
+@1026 = ~Tout semble possible ‡ la lumiËre du jour.~ [rh#is017]
 @1027 = ~'C'est une belle nuit... du moins pour le moment.~ [rh#is018]
-@1028 = ~Je vous √©coute.~ [rh#is019]
+@1028 = ~Je vous Ècoute.~ [rh#is019]
 @1029 = ~De quoi avez-vous besoin ?~ [rh#is020]
 @1030 = ~Comment puis-je aider ?~ [rh#is021]
-@1031 = ~Je suis pr√™te.~ [rh#is022]
+@1031 = ~Je suis prÍte.~ [rh#is022]
 @1032 = ~Oui ?~ [rh#is023]
 @1033 = ~Oui, qu'est-ce que c'est ?~ [rh#is024]
-@1034 = ~Bien s√ªr.~ [rh#is025]
-@1035 = ~Tr√®s bien.~ [rh#is026]
+@1034 = ~Bien s˚r.~ [rh#is025]
+@1035 = ~TrËs bien.~ [rh#is026]
 @1036 = ~Comme vous le souhaitez.~ [rh#is027]
-@1037 = ~Je ferai comme vous d√Ætes.~ [rh#is028]
+@1037 = ~Je ferai comme vous dÓtes.~ [rh#is028]
 @1038 = ~Oui, je le pensais. ~ [rh#is029]
 @1039 = ~Certainement.~ [rh#is030]
 @1040 = ~Comme vous le voudriez.~ [rh#is031]
@@ -66,5 +66,105 @@
 @1043 = ~Cela ne fonctionne pas du tout !~ [rh#is034]
 @1044 = ~C'est plus que ce que je peux transporter.~ [rh#is035]
 @1045 = ~Hmm ?~ [rh#is036]
-@1046 = ~Cela devrait s'av√©rer int√©ressant.~ [rh#is037]
-@1047 = ~Mes sortil√®ges...~ [rh#is038]
+@1046 = ~Cela devrait s'avÈrer intÈressant.~ [rh#is037]
+@1047 = ~Mes sortilËges...~ [rh#is038]
+
+/* =============== *
+ *  WeiDU prompts  *
+ * =============== */
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "
+
+@-1063= "INSTALLATION ABANDONNEE"
+@-1064= "Abandon de l'installation de ["
+@-1065= "], retour a l'etat anterieur"

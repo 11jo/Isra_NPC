@@ -78,10 +78,6 @@ END
 
 AUTO_TRA ~isra/translations/%s~
 
-LANGUAGE ~French~
-         ~french~
-         ~isra/translations/french/setup.tra~
-
 LANGUAGE ~English~
          ~english~
          ~isra/translations/english/setup.tra~
@@ -93,6 +89,10 @@ LANGUAGE ~Russian (Translation: JamesMaxwell & Arcanecoast.ru)~
 LANGUAGE ~Italiano (traduzione di Coland)~
          ~italian~
          ~isra/translations/italian/setup.tra~		 
+
+LANGUAGE ~French (by Streen)~
+         ~french~
+         ~isra/translations/french/setup.tra~
 
 
 /* =========================================== *
