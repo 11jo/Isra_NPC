@@ -1,0 +1,79 @@
+// Conflit avec Dorn
+// -------------
+@0    = ~Mon seigneur, ceci... cette bête que tu as emmenée dans ton groupe~ ~Ma dame, ceci... cette bête que tu as emmenée dans ton groupe~
+@1    = ~Tu parles de moi, paladin ? Bien sûr, que tu le fais. Je me demande, est-ce la rage ou la peur qui fait trembler ta voix à ce point ?~
+@2    = ~Peur ? Si je recule devant toi, démon, c'est par répulsion, PAS par peur. Quel que soit le pacte impie que tu as conclu, l’impureté s'accroche à toi comme une seconde peau. Être près de toi rend malade.~
+@3    = ~J'ai gardé la paix jusqu'à présent, dans l'espoir qu'il puisse y avoir quelque chose en toi qui n'était pas totalement mauvais, mais je vois maintenant qu'un tel espoir est vain.~
+@4    = ~<CHARNAME>, si tu ne lâches pas ce... ce chien enragé, alors tu es aussi coupable que lui.~
+@5    = ~Tu garderais une imbécile aussi minaudeuse dans ton groupe, <CHARNAME> ? Ne penses pas que je supporterai plus longtemps les absurdités moralisatrices de celle-ci.~
+@6    = ~ Waouh ! Est-ce vraiment nécessaire ?~
+@7    = ~Très bien. C'est toi qui es fautive, Isra.~
+@8    = ~De toute façon, j'en ai assez de ta méchanceté, Dorn.~
+@9    = ~Ne t'attends pas à ce que je fasse des concessions à... des compagnons délicats et à leurs dieux faibles. Je la tuerai, avec ou sans ton aide.~
+@10   = ~Ce n'est peut-être pas aussi simple, démon.~
+@11   = ~C'est toi qui es fautive, Isra.~
+@12   = ~Alors cette misérable créature t'a presque entraîné dans les Abysses à ses côtés. Si vous ne tombez pas sous mon épée, vous tomberez sûrement tous les deux sous celle d'un autre.~
+@13   = ~Une mauvaise décision, <CHARNAME>, et qui sera ta dernière.~
+
+// Neera
+// -----
+@14   = ~Neera... puis-je te demander ce que tu fais exactement ?~
+@15   = ~Oh ! Eh bien, je pensais modifier un peu la coupe de cette robe. Même si je vais probablement la déchirer. Je n'y connais pas grand chose en couture.~
+@16   = ~Peux-tu modifier la robe d'un mage sans risquer ses pouvoir ?~
+@17   = ~En fait, je ne sais pas. Je suppose que nous pouvons essayer et le découvrir, n'est-ce pas ?~
+@18   = ~Pourrais-je peut-être emprunter cette robe de cérémonie que tu m'as montrée l'autre soir ? La chose rouge et moulante ? Pour servir de modèle, je veux dire. Je ne vais pas la couper ou quoi que ce soit.~
+@19   = ~Ce... n'est peut-être pas l'option la plus appropriée, Neera.~
+@20   = ~Je suis désolée. Si cela a une signification religieuse particulière ou quelque chose comme cela, je ne voulais pas t'offenser.~
+@21   = ~Non, non, mais ce n'est pas exactement le genre de chose que je porterais en public.~
+@22   = ~Je ne vois pas pourquoi. Cela avait l'air assez incroyable.~
+@23   = ~Oh, seigneur. Isra, je pense que tu rougis. Je ne peux pas dire que j’ai déjà vu ça auparavant. Ouah. Viens à moi Je, euh, je te promets que je ne te drague pas ou quoi que ce soit.~
+@24   = ~(rires) Cela fait assez peu de différence à ce stade.~
+@25   = ~D'accord. Eh bien, c'était vraiment juste une pensée. Je veux dire, ce serait tout simplement génial si je le gâchais et que je n'avais plus rien du tout à porter.~
+@26   = ~Ouais, maintenant tu rougis définitivement.~
+@27   = ~... Tu es vraiment trop parfois, Neera.~
+@28   = ~Oh, je le sais.~
+@29   = ~Tu n'es pas aussi effrayante que je le pensais, Isra. Je veux dire, tu ne sembles même pas me détester du tout. Du moins... Je ne pense pas que ce soit le cas.~
+@30   = ~Euh. Ce n'est pas le cas, n'est-ce pas ?~
+@31   = ~... Pourquoi par les Royaumes penses-tu que je te détesterais ?~
+@32   = ~Je ne pense pas ! Mais bon, tu viens de l'Amn, et tout le monde sait ce que les amniens pensent de la magie, et ma spécialisation... ouais.~
+@33   = ~Ce serait une mauvaise excuse pour haïr quelqu'un. En tout cas, j'ai connu bien trop de bardes pour craindre la magie.~
+@34   = ~Je ne peux pas dire que je suis terriblement ravie de ton don, non.~
+@35   = ~Je ne pensais pas que tu le serais. Et certaines des choses que j'ai faites avec... accidentellement, bien sûr, et pas aussi souvent que tout le monde semble le penser, mais...~
+@36   = ~Tu ne mets pas un point d'honneur à me frapper ou quelque chose du genre si je te parle de ce genre de choses, n'est-ce pas ?~
+@37   = ~Non, bien sûr que non.~
+@38   = ~Bien. Même si je ne sais pas vraiment pourquoi je t'en parle. Je veux dire, je ne pense pas que la culpabilité soit un sentiment avec lequel tu aurais beaucoup d'expérience. La moindre erreur, et POOF, plus de paladin, non ?~
+@39   = ~Ça ne fonctionne pas vraiment de cette façon. Si c'était le cas, je doute qu’il resterait un seul d’entre nous. Nous sommes certes censés corriger nos défauts, mais la perfection est un idéal et non une réalité.~
+@40   = ~C'est rassurant, mais quand tes échecs échappent à ton contrôle... je ne sais pas. Ce n'est pas quelque chose que je peux simplement... réparer.~
+@41   = ~Neera, si tu veux des conseils pratiques, je préférerais certainement que tu te limites aux baguettes autant que possible. Si tu souhaites des conseils religieux, il est sûrement préférable d'en discuter avec l'église de Mystra. Ma connaissance personnelle de la magie profane est... plutôt rare, je dois l'admettre.~
+@42   = ~Cela pourrait en fait être une bonne idée. Tu ne connais aucun prêtre de Mystra, n'est-ce pas ?~
+@43   = ~Il y en a très peu en Amn, j'en ai bien peur.~
+@44   = ~Eh bien, je suppose que ça peut attendre. Jusqu'à présent, j'ai assez bien compris de choses par moi-même. Un peu plus de temps ne devrait pas faire une grande différence.~
+
+// Rasaad
+// ------
+@45   = ~Je ne peux pas dire que j'ai déjà entendu les enseignements de Séluné abordés de la même manière que vous, Rasaad.~
+@46   = ~Vous connaissez... non, bien sûr, vous connaissez les fidèles de Séluné.~
+@47   = ~Moins qu'avec plusieurs autres religions alliées, je l'admets, même si des mystiques visitent occasionnellement notre temple de Crimmor. Le temple est assez informel car nous protestons rarement contre leurs sermons spontanés.~
+@48   = ~Pourtant, votre approche est curieusement nouvelle.~
+@49   = ~La vérité est universelle ; l’interprétation est la réflexion par laquelle nous pourrions parvenir à la comprendre. Je serais très intéressé de parler avec de tels mystiques.~
+@50   = ~Hmm. J'oublie à quel point les monastères peuvent être isolés. L'Ordre de la Rose Rubis reste en contact assez étroit avec la plus grande église de Sunie. C’est peut-être pour cela que nos enseignements ne sont pas aussi divergents qu’ils pourraient l’être autrement.~
+@51   = ~Même si je n'ai jamais rencontré de moine sunite.~
+@52   = ~C'est dommage. J'ai entendu dire qu'il existe plusieurs sectes Sunites de la conscience solaire en Amn.~
+@53   = ~Je me demande si leurs enseignements me seraient aussi inconnus que les vôtres. C'est une pensée très... troublante , vraiment.~
+@54   = ~Troublante? Je suis surpris que vous n’appréciiez pas cette perspective. Peut-être qu’on ne comprendra jamais tout ce qu’il y a à savoir sur sa propre foi, mais le voyage est souvent aussi important que la destination.~
+@55   = ~(rires) J'ai déjà entendu ce morceau de sagesse de la part des Sélunites.~
+@56   = ~Je suis théologien, oui, mais je ne me suis jamais consacré à la contemplation. Il est inquiétant de considérer à quel point une personne qui le fait plus profondément pourrait avoir une compréhension plus profonde.~
+@57   = ~Plus profondément ? Je ne pense pas. Votre déesse est un être de passion, n'est-ce pas ? Il y a des aspects de sa nature qu'aucun moine, aussi instruit soit-il, ne pourrait comprendre.~
+@58   = ~Mais je connais assez bien les enseignements des moines de Sunie. Je serais prêt à les partager avec vous, si vous le souhaitez.~
+@59   = ~Être instruite par un Sélunite dans ma propre foi... m'apprendrait au moins l'humilité. J'apprécierais vraiment cela, Rasaad.~
+@60   = ~Parfois, j'oublie que vous n'êtes pas réellement de Calimshan, mon amie. Je n'ai pas apprécié une telle cuisine depuis que j'ai quitté Calimport.~
+@61   = ~Vraiment ? La nourriture calimshite est presque aussi populaire dans tout l’Amn que ses soieries et ses vins. Je suis surprise que vous n'en ayez pas trouvé à Athkatla.~
+@62   = ~La nourriture n'était... pas une priorité à l'époque.~
+@63   = ~Non... non, j'imagine que non.~
+@64   = ~Mais la vôtre est très bonne, Isra. Ce n’est pas une compétence que j’aurais pensé associer à un paladin.~
+@65   = ~Ce n'est pas la première chose qui vient à l'esprit, non, mais les écuyers sont censés fournir de tels services à leurs chevaliers. Nous devenons souvent très bons dans ce domaine.~
+@66   = ~Les initiés du monastère accomplissent également de telles tâches, bien que ce soit une tâche réservée aux plus jeunes des novices, afin de leur enseigner la valeur de la discipline et de la patience.~
+@67   = ~Oui, ainsi que le respect, le service et l'humilité, bien que cela soit généralement considéré comme un honneur plutôt qu'une corvée parmi nous. Les obligations mutuelles entre chevalier et écuyer sont sacrées.~
+@68   = ~Cela m'intéresse de voir à quel point nos expériences sont similaires et pourtant différentes. Peut-être que ce n’est pas surprenant. Le moindre changement d’angle du miroir provoque une réflexion de la lumière de manière nouvelle et souvent inattendue.~
+@69   = ~Et ce sont ces mêmes différences qui nous rappellent que nous ne sommes pas seuls dans ce monde.~
+@70   = ~En effet. Je vous remercie pour cette discussion, mon amie. J'apprécie toutes les opportunités d'approfondir mon apprentissage, notamment celles qui étaient imprévues.~
